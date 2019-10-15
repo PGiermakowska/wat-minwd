@@ -1,0 +1,13 @@
+C:\Users\Patrycja\source\repos\MIN_LAB1\Min_Lab1\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.exe
+C:\Users\Patrycja\source\repos\MIN_LAB1\Min_Lab1\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.deps.json
+C:\Users\Patrycja\source\repos\MIN_LAB1\Min_Lab1\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.runtimeconfig.json
+C:\Users\Patrycja\source\repos\MIN_LAB1\Min_Lab1\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\Patrycja\source\repos\MIN_LAB1\Min_Lab1\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.dll
+C:\Users\Patrycja\source\repos\MIN_LAB1\Min_Lab1\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.pdb
+C:\Users\Patrycja\source\repos\MIN_LAB1\Min_Lab1\ConsoleApp1\bin\Debug\netcoreapp3.0\alglibnet2.dll
+C:\Users\Patrycja\source\repos\MIN_LAB1\Min_Lab1\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\Patrycja\source\repos\MIN_LAB1\Min_Lab1\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\Patrycja\source\repos\MIN_LAB1\Min_Lab1\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\Patrycja\source\repos\MIN_LAB1\Min_Lab1\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.csproj.CopyComplete
+C:\Users\Patrycja\source\repos\MIN_LAB1\Min_Lab1\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.dll
+C:\Users\Patrycja\source\repos\MIN_LAB1\Min_Lab1\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.pdb
